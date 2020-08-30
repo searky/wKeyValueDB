@@ -1,0 +1,2 @@
+com.github.searky.wKeyValueDB.wRaft.Serializer.impl.BooleanSerializer
+com.github.searky.wKeyValueDB.wRaft.Serializer.impl.IntegerSerializer
